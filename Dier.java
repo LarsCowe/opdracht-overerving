@@ -1,5 +1,5 @@
 public class Dier {
-    private String naam;
+    protected String naam;
     protected int leeftijd;
 
     public Dier(String naam, int leeftijd) {
